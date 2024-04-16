@@ -1,2 +1,4 @@
 # GauSim
-A real-world autonomous driving scene augmentor based on 3D Gaussian Splatting
+A real-world autonomous driving simulator based on 3D Gaussian Splatting for scene augmentation
+
+
