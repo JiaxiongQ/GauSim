@@ -4,7 +4,7 @@ A real-world autonomous driving simulator based on 3D Gaussian Splatting for sce
 ![](https://github.com/JiaxiongQ/GauSim/blob/main/Waymo_scene1.gif)
 
 ## Demo
-[Waymo_scene](https://drive.google.com/file/d/1KjG5pnuQq2aiLFBHc4mWImd_ff_szGmf/view?usp=sharing)
+[Waymo_scene]([https://drive.google.com/file/d/1KjG5pnuQq2aiLFBHc4mWImd_ff_szGmf/view?usp=sharing](https://www.youtube.com/watch?v=nckwfcoBH3o))
 
 ## Project Plan
 GauSim is developed to efficiently and physically augment autonomous driving scenes for robust and secure ADAS, it will add more features in the near future!
