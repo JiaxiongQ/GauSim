@@ -13,4 +13,5 @@ GauSim is developed to efficiently and physically augment autonomous driving sce
 - [ ] Support LiDAR point cloud initialization.
 - [ ] Handle dynamic scenes, including moving cars and pedestrain.
 - [ ] Effectiveness evaluation of downstream tasks.
+- [ ] Combine kinematics to generate novel car motion.
 
