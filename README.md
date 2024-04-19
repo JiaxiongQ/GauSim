@@ -6,9 +6,12 @@ A real-world autonomous driving simulator based on 3D Gaussian Splatting for sce
 ## Demo
 Waymo Scene#1
 
-[YouTube](https://www.youtube.com/watch?v=nckwfcoBH3o) [哔哩哔哩](https://www.bilibili.com/video/BV1Gm411U7jR/?spm_id_from=333.337.search-card.all.click)
+[YouTube](https://www.youtube.com/watch?v=nckwfcoBH3o) 
+
+[哔哩哔哩](https://www.bilibili.com/video/BV1Gm411U7jR/?spm_id_from=333.337.search-card.all.click)
 
 Waymo Scene#2
+
 [哔哩哔哩](https://www.bilibili.com/video/BV1Sp421D7dT/?spm_id_from=333.337.search-card.all.click)
 
 ## Project Plan
