@@ -1,6 +1,8 @@
 # GauSim
 A real-world autonomous driving simulator based on 3D Gaussian Splatting for scene augmentation
 
+Augmenting speed: 1.5h / scene / person
+
 ![](https://github.com/JiaxiongQ/GauSim/blob/main/Waymo_scene1.gif)
 
 ## Demo
