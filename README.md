@@ -14,8 +14,8 @@ Waymo Scene#2: $~~$ [YouTube](https://www.youtube.com/watch?v=zXRlPgMIYWg) $~$ [
 GauSim is developed to efficiently and physically augment autonomous driving scenes for robust and secure ADAS, it will add more features in the near future!
 - [x] Add moving cars and static obstacles.
 - [x] Physically change the car colors.
-- [ ] Handle dynamic scenes, including moving cars and pedestrain. (Achieve 50%)
-- [ ] Support LiDAR point cloud initialization.
+- [x] Handle dynamic scenes, including moving cars and pedestrain.
+- [x] Support LiDAR point cloud initialization.
 - [ ] Effectiveness evaluation of downstream tasks.
 - [ ] Combine kinematics to generate novel car motion.
 
